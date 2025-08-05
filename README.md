@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1>Welcome to My Website</h1>
+    <h1 bgcolor="lightblue">Welcome to My Website</h1>
     <p>This is a simple and static web page made with HTML only.</p>
 
     <h2>About Me</h2>
